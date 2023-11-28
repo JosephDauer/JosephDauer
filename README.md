@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JosephDauer.
 - 👀 I’m interested in Software Developement and Engineering. 
-- 🌱 I’m currently learning cybersecurity and C++.
-- 💞️ I’m looking to collaborate on app developement
-- 📫 Email.
+- 🌱 I’m currently learning software developement and Azure Systems.
 
 <!---
 JosephDauer/JosephDauer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
